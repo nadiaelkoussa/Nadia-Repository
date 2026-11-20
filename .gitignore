@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Android Studio
+.gradle/
+.idea/
+local.properties
+*.iml
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editor temporary files
+*.log
+*.tmp
